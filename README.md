@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-Hi, I'm Naina 👩‍💻  <br><br>💡Currently, I’m working with:<br>- HTML, CSS, JavaScript<br>- Python & Object-Oriented Programming<br>- Basics of Machine Learning and Data Structures<br><br>“Progress over perfection” ✨
+Hi, I'm Naina 👩‍💻  <br><br>💡Currently, I’m working with:<br>- HTML, CSS, JavaScript<br>- Python, C++ & Object-Oriented Programming<br>- Basics of Machine Learning and Data Structures<br><br>“Progress over perfection” ✨
 
 
 ## 🌐 Socials:
