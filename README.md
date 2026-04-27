@@ -1,3 +1,4 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=NainaKalra.NainaKalra" />
 ## Hi there 👋
 # 💫 About Me:
 Hi, I'm Nainaa 👩‍💻  <br><br>💡Currently, I’m working with:<br>- HTML, CSS, JavaScript<br>- Python, C++ & Object-Oriented Programming<br>- Basics of Machine Learning and Data Structures<br><br>“Progress over perfection” ✨
