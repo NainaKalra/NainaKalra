@@ -1,4 +1,8 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=NainaKalra.NainaKalra" />
+<h1 align="center">
+
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome!+👋;+I+ am+Naina+Kalra;+Sophomore+at+Indiana Tech;" />
+
+</h1>
 ## Hi there 👋
 # 💫 About Me:
 Hi, I'm Nainaa 👩‍💻  <br><br>💡Currently, I’m working with:<br>- HTML, CSS, JavaScript<br>- Python, C++ & Object-Oriented Programming<br>- Basics of Machine Learning and Data Structures<br><br>“Progress over perfection” ✨
