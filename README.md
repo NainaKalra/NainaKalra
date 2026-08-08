@@ -12,7 +12,7 @@
 
 I am a CS Honors Junior, minoring in Cybersecurity, and picking up a Programming and an AI certification along the way because I just like understanding how things fit together. Lately, I've been getting into system design, and it's quietly become one of my favourite things.
 
-🌱 &nbsp;I'm currently learning **AI and UI/UX Design**
+🌱 &nbsp;I'm currently learning **AI, UI/UX and System Design**
 
 ### 🛠️ Tech Stack
 
