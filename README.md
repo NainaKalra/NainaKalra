@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-I am a Computer Science student who loves building cool things with code and turning random ideas into actual projects. I’m into AI, web development, UI/UX, and basically anything that lets me create something from scratch. Currently learning, experimenting, breaking things, fixing them, and trying to become a better developer
+I am a Computer Science student who loves building cool things with code and turning random ideas into actual projects. I’m into AI, web development, UI/UX, and basically anything that lets me create something from scratch. Currently learning, experimenting, breaking things, fixing them, and trying to become a better developer.
 
 🌱 &nbsp;I'm currently learning **AI, UI/UX and System Design**
 
